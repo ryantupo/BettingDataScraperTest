@@ -1,8 +1,8 @@
 ## BettingDataScraperTest
 
-## minimum requirements : 
-  ## db = '10.4.17-MariaDB'/'mysql equilivent' <
-  ## browser used = Chrome - Version 99.0.4844.51 (Official Build) (64-bit)
+## Minimum requirements : 
+  ## Db = '10.4.17-MariaDB'/'mysql equilivent' <
+  ## Browser used = Chrome - Version 99.0.4844.51 (Official Build) (64-bit)
   
   
  ## Running of Scraper: 
